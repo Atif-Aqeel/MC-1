@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuranApp</string>
+    <string name="menu_Open">Open</string>
+    <string name="close_menu">Close</string>
+    <string name="juzz">Juzz</string>
+    <string name="surah">Surah</string>
+    <string name="quran_app">Quran App</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="Home">Home</string>
+    <string name="Communicate">Communicate</string>
+    <string name="Share">Share</string>
+</resources>
