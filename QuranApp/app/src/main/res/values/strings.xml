@@ -1,14 +1,13 @@
 <resources>
-    <string name="app_name">QuranApp</string>
-    <string name="menu_Open">Open</string>
-    <string name="close_menu">Close</string>
-    <string name="juzz">Juzz</string>
-    <string name="surah">Surah</string>
-    <string name="quran_app">Quran App</string>
-    <string name="search">Search</string>
-    <string name="profile">Profile</string>
-    <string name="settings">Settings</string>
-    <string name="Home">Home</string>
-    <string name="Communicate">Communicate</string>
-    <string name="Share">Share</string>
+    <string name="app_name">Learn Quran</string>
+    <string name="fatiha">Fatiha</string>
+    <string name="the_opening">The Opening</string>
+    <string name="meccan_7_aya">Meccan 7 Aya</string>
+    <string name="fatiha2">Fatiha</string>
+    <string name="the_opening2">The Opening</string>
+    <string name="meccan_7_aya2">Meccan 7 Aya</string>
+    <string name="_1">1</string>
+    <string name="_7_ayah">7 ayah</string>
+    <string name="fatiah">Fatiah</string>
+    <string name="fatiah2">Fatiah</string>
 </resources>
